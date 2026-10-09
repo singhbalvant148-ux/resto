@@ -1,0 +1,12 @@
+[
+  {
+    "id": "floor-lower",
+    "name": "Lower Hall",
+    "displayOrder": 1
+  },
+  {
+    "id": "floor-upper",
+    "name": "Upper Hall",
+    "displayOrder": 2
+  }
+]

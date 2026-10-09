@@ -1,0 +1,8 @@
+{
+  "name": "Prime Century Cafe & Restaurant POS",
+  "description": "Fast and modern restaurant Point of Sale (POS) system for Prime Century Cafe and Restaurant, featuring table management, KOT, digital menu ordering, GST billing, and daily sales reports in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "audit-1791565457251-de20375f",
+    "action": "BILL_DELETION",
+    "billId": "bill-test-101",
+    "billNumber": "INV-2026-0099",
+    "grandTotal": 525,
+    "paymentMethod": "cash",
+    "tableId": 1,
+    "cashierName": "Amit Kumar",
+    "paidAt": "2026-10-09T17:04:17.238Z",
+    "deletedAt": "2026-10-09T17:04:17.252Z",
+    "deletedByUserId": "usr-admin",
+    "deletedByUsername": "admin",
+    "deletedByName": "PRIMECENTURY RESTAURANT & CAFE",
+    "itemsCount": 1,
+    "items": [
+      {
+        "name": "Paneer Tikka",
+        "price": 260,
+        "quantity": 2,
+        "isVeg": true
+      }
+    ]
+  }
+]
